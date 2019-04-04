@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invata Engleza</string>
+    <string name="category_phrases">Fraze</string>
+    <string name="category_colors">Culori</string>
+    <string name="category_numbers">Numere</string>
+    <string name="category_family">Familie</string>
+    <string name="hello_blank_fragment">Salut, fragment gol</string>
+</resources>
